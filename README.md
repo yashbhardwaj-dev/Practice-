@@ -5,6 +5,7 @@ Auther - Yash Bhardwaj
 Day 1 : Making Profiles of platform and Building setups
 Day 2 : Doing basics of javascript
 Day 3 : Building Projects
+Day 4 : Getting tired and Headace
 
 // this my first js code
 
