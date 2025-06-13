@@ -6,6 +6,7 @@ Day 1 : Making Profiles of platform and Building setups
 Day 2 : Doing basics of javascript
 Day 3 : Building Projects
 Day 4 : Getting tired and Headace
+Day 5 : 
 
 // this my first js code
 
