@@ -8,6 +8,7 @@ Day 3 : Building Projects
 Day 4 : Getting tired and Headace
 Day 5 : Digital Clock
 Day 6 :
+Day 7 :
 
 // this my first js code
 
