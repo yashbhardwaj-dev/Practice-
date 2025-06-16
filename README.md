@@ -10,6 +10,7 @@ Day 5 : Digital Clock
 Day 6 : Mini Projects
 Day 7 :
 Day 8 :
+Day 9 :
 
 // this my first js code
 
