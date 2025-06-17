@@ -10,7 +10,7 @@ Day 5 : Digital Clock
 Day 6 : Mini Projects
 Day 7 : Mini Project
 Day 8 : Portfolio Website
-Day 9 :
+Day 9 : Portfolio 
 
 // this my first js code
 
