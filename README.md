@@ -14,7 +14,7 @@ Day 9 : Portfolio Website
 Day 10 : Portfolio and JS
 Day 11 : 
 Day 12 : 
-Day 13
+Day 13 :
 
 // this my first js code
 
