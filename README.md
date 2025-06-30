@@ -25,6 +25,7 @@ Day 20 :
 Day 21 :
 Day 22 : 
 
+
 // this my first js code
 
 console.log("Hello, I am Yash Bhardwaj Future frontend developer");
