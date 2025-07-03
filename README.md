@@ -26,7 +26,7 @@ Day 21 :
 Day 22 : 
 Day 23 : 
 Day 24 : 
-Day 25 :
+Day 25 : 
 
 // this my first js code
 
